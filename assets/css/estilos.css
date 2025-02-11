@@ -1,7 +1,10 @@
 body {
   font-family: "Raleway", sans-serif;
 }
-
+/* NAV section */
+.navbar-brand img{
+ max-width: 200px;
+} 
 /* Hero Section */
 
 #Hero-Section {
